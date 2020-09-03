@@ -1,2 +1,3 @@
 # hello-world
 Próbne repozytorium
+Zmieniam właśnie treść w tym pliku w celach edukacyjnych, bla bla bla...
